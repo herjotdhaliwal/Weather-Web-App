@@ -7,7 +7,7 @@ This is an interactive weather web app built using react. The website features a
 ### Running the Application
 
 1. Clone this repo from https://github.com/herjotdhaliwal/Weather-Web-App.git can be done by 
-2.```git clone https://github.com/herjotdhaliwal/Weather-Web-App.git```
-3. Navigate to the weather-app directory ```cd weather-app```
-4. Run an npm install ```npm install```
-5. Run npm start to start the webapp and a browser window should open ```npm start```
+```git clone https://github.com/herjotdhaliwal/Weather-Web-App.git```
+2. Navigate to the weather-app directory ```cd weather-app```
+3. Run an npm install ```npm install```
+4. Run npm start to start the webapp and a browser window should open ```npm start```
