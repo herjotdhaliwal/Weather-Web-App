@@ -11,3 +11,7 @@ This is an interactive weather web app built using react. The website features a
 2. Navigate to the weather-app directory ```cd weather-app```
 3. Run an npm install ```npm install```
 4. Run npm start to start the webapp and a browser window should open ```npm start```
+
+It should look like this
+
+![image](https://user-images.githubusercontent.com/50650153/162547254-16c9c972-c6ce-4cbb-b824-0e17ea30902b.png)
